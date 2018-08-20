@@ -15,12 +15,6 @@ public class datatypes {
         //long has the width of 64 largest number 2**63
         long f =100L;
         System.out.println(f);
-        
-
-
-
-
-
 
     }
 }
