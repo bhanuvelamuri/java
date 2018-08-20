@@ -6,7 +6,7 @@ public class floatanddouble {
         System.out.println("myIntValue = " + myIntValue);
         System.out.println("myFloatValue = " + myFloatValue);
         System.out.println("mydoubleValue = " + myDoubleValue);
-        //converting pound to kilograms
+        // converting pound to kilograms
         double p = 200;
         double kg = p*0.45359237;
         System.out.println(kg);
